@@ -7,10 +7,10 @@ Uma landing page responsiva com tema de restaurante, construída com HTML, CSS e
 [Ver Projeto Online](https://marialauracode.github.io/landing-page-food/)
 
 ## 🛠️ Tecnologias Utilizadas
-* HTML5: Marcação semântica
-* CSS3: Estilização
-* JavaScript: Funcionalidade interativa
-* jQuery: Manipulação DOM e manipulação de eventos
-* ScrollReveal: Animações de scroll
-* Font Awesome: Ícones
-* Google Fonts: Fontes
+* <b>HTML5:</b> Marcação semântica
+* <b>CSS3:</b>Estilização
+* <b>JavaScript:</b> Funcionalidade interativa
+* <b>jQuery:</b> Manipulação DOM e manipulação de eventos
+* <b>ScrollReveal:</b> Animações de scroll
+* <b>Font Awesome:</b> Ícones
+* <b>Google Fonts:</b> Fontes
