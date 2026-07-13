@@ -14,7 +14,8 @@
 
 #cta .title {
     font-size: 4rem;
-    color: var(--color-neutral-1);;
+    color: var(--color-neutral-1);
+    line-height: 4.7rem;
 }
 
 #cta .title span {
