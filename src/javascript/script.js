@@ -9,7 +9,7 @@ $(document).ready(function() {
 
     $(window).on('scroll', function () {
         const header = $('header');
-        const scrollPosition = $(window).scrollTop() - header.outerHeight();
+        const scrollPosition = $(window).scrollTop() + 100;
 
         let activeSectionIndex = 0;
 
