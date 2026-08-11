@@ -12,8 +12,6 @@ Uma landing page responsiva com tema de restaurante, construída com HTML, CSS e
 * <b>JavaScript:</b> Funcionalidade interativa
 * <b>jQuery:</b> Manipulação DOM e manipulação de eventos
 * <b>ScrollReveal:</b> Animações de scroll
-* <b>Font Awesome:</b> Ícones
-* <b>Google Fonts:</b> Fontes
 
 ## 📦 Funcionalidades
 * Layout totalmente responsivo;
