@@ -21,3 +21,5 @@ Uma landing page responsiva com tema de restaurante, construída com HTML, CSS e
 * Organização dos produtos em categorias;
 * Botões com efeitos de hover e transições;
 * Interface moderna e intuitiva.
+
+## 👩🏻‍💻 Feito por Maria Laura Costa.
